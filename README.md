@@ -1,4 +1,3 @@
-#GameSDL
 1.	Hướng dẫn cài đặt
 -	Tải thư viện SDL_Lib: [ https://bit.ly/3vTJdSu ]
 -	Chạy chương trình .exe
