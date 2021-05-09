@@ -1,6 +1,6 @@
 1.	Hướng dẫn cài đặt
 -	Tải thư viện SDL_Lib: [ https://bit.ly/3vTJdSu ]
--	Chạy chương trình .exe
+-	Chạy chương trình .exe trong Debug
 2.	Thuật toán
 -	Các chương trình quản lý: nhân vật, địch, đạn bắn, ảnh va chạm, mạng nhân vật, text.
 -	Điều khiển nhân vật: Nhận sự kiện từ chuột và bàn phím
