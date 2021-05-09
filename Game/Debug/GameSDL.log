@@ -1,0 +1,33 @@
+﻿Build started 09/05/2021 5:54:48 CH.
+     1>Project "D:\VSCode\GameSDL\GameSDL\GameSDL.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\vscode\gamesdl\gamesdl\main.cpp(90): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>d:\vscode\gamesdl\gamesdl\main.cpp(288): warning C4018: '>=' : signed/unsigned mismatch
+     1>d:\vscode\gamesdl\gamesdl\main.cpp(294): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\vscode\gamesdl\gamesdl\main.cpp(295): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\vscode\gamesdl\gamesdl\main.cpp(345): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\vscode\gamesdl\gamesdl\main.cpp(358): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\vscode\gamesdl\gamesdl\main.cpp(359): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\vscode\gamesdl\gamesdl\main.cpp(381): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\vscode\gamesdl\gamesdl\main.cpp(389): warning C4018: '>=' : signed/unsigned mismatch
+     1>d:\vscode\gamesdl\gamesdl\main.cpp(395): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\vscode\gamesdl\gamesdl\main.cpp(396): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\vscode\gamesdl\gamesdl\main.cpp(112): warning C4715: 'Level' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\VSCode\GameSDL\Debug\GameSDL.exe" /INCREMENTAL /NOLOGO SDL.lib SDLmain.lib SDL_image.lib SDL_mixer.lib SDL_ttf.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\VSCode\GameSDL\Debug\GameSDL.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\VSCode\GameSDL\Debug\GameSDL.lib" /MACHINE:X86 Debug\AmoObject.obj
+         Debug\BaseObject.obj
+         Debug\Common_Function.obj
+         Debug\ExplosionObject.obj
+         Debug\main.obj
+         Debug\MainObject.obj
+         Debug\PlayerPower.obj
+         Debug\TextObject.obj
+         Debug\ThreatsObject.obj
+         GameSDL.vcxproj -> D:\VSCode\GameSDL\Debug\GameSDL.exe
+     1>Done Building Project "D:\VSCode\GameSDL\GameSDL\GameSDL.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:11.26
