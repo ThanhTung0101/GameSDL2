@@ -15,6 +15,7 @@
 + Xử lý nhân vật: Hiệu ứng va chạm, giảm số mạng, bất tử 3s, về vị trí ban đầu, kiểm tra số mạng và các mục tiêu.
 + Xử lý địch: Hiệu ứng va chạm, xóa địch và đạn
 3.	Cách chơi
+- Chọn level từ 1 đến 4 và bắt đầu chơi game
 -	Điều khiển nhân vật bằng 4 phím mũi tên; bắn đạn bằng chuột
 -	Nhân vật bắn đạn và dịch chuyển, tiêu diệt địch.
 -	Người chơi tiêu diệt 1 địch tương ứng 1 điểm, vượt qua các mục tiêu của game đề ra. Nếu không vượt qua mục tiêu đạt được số điểm trong thời gian quy định hoặc hết số mạng va chạm thì game over.
